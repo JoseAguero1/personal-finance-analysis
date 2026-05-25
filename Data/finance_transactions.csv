@@ -1,0 +1,766 @@
+transaction_id,date,category,subcategory,merchant,amount,type,payment_method,month,year,month_num,notes,month_label,is_overspend
+TXN-01033,2023-01-01,Dining Out,Dining Out,Local Bistro,8.48,Expense,ACH Transfer,2023-01,2023,1,,Jan 2023,False
+TXN-01048,2023-01-02,Shopping,Shopping,Nike,45.75,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01053,2023-01-03,Subscriptions,Subscriptions,Adobe CC,14.96,Expense,Debit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01036,2023-01-05,Dining Out,Dining Out,Olive Garden,23.88,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01027,2023-01-06,Groceries,Groceries,Whole Foods,15.81,Expense,Debit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01055,2023-01-07,Subscriptions,Subscriptions,Adobe CC,13.64,Expense,ACH Transfer,2023-01,2023,1,,Jan 2023,True
+TXN-01052,2023-01-08,Subscriptions,Subscriptions,YouTube Premium,15.71,Expense,Debit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01051,2023-01-08,Subscriptions,Subscriptions,Hulu,18.95,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01041,2023-01-08,Utilities,Utilities,City Water Dept,207.99,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01032,2023-01-08,Dining Out,Dining Out,Chipotle,34.51,Expense,Debit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01047,2023-01-09,Shopping,Shopping,Amazon,47.92,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01050,2023-01-11,Subscriptions,Subscriptions,Spotify,15.68,Expense,Cash,2023-01,2023,1,,Jan 2023,True
+TXN-01045,2023-01-11,Entertainment,Entertainment,AMC Theatres,25.9,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01028,2023-01-12,Groceries,Groceries,Trader Joe's,192.1,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01039,2023-01-12,Transportation,Transportation,Toll Authority,64.0,Expense,ACH Transfer,2023-01,2023,1,,Jan 2023,True
+TXN-01046,2023-01-13,Entertainment,Entertainment,Concert Hall,1.45,Expense,Debit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01044,2023-01-14,Entertainment,Entertainment,Steam Games,37.63,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01025,2023-01-14,Groceries,Groceries,Trader Joe's,24.84,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01049,2023-01-15,Shopping,Shopping,H&M,61.51,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01040,2023-01-15,Transportation,Transportation,Toll Authority,79.53,Expense,ACH Transfer,2023-01,2023,1,,Jan 2023,True
+TXN-01042,2023-01-16,Healthcare,Healthcare,Eye Care Plus,116.27,Expense,Debit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01035,2023-01-18,Dining Out,Dining Out,Local Bistro,13.0,Expense,Debit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01031,2023-01-19,Dining Out,Dining Out,Olive Garden,18.79,Expense,ACH Transfer,2023-01,2023,1,,Jan 2023,False
+TXN-01000,2023-01-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-01,2023,1,Bi-weekly paycheck,Jan 2023,False
+TXN-01054,2023-01-21,Subscriptions,Subscriptions,Spotify,12.81,Expense,Debit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01024,2023-01-22,Housing,Housing,Oakwood Apartments,1400.0,Expense,Debit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01037,2023-01-22,Transportation,Transportation,BP Gas,58.97,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01038,2023-01-26,Transportation,Transportation,BP Gas,48.47,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01056,2023-01-26,Savings,Savings,Vanguard Transfer,500.0,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01034,2023-01-27,Dining Out,Dining Out,Chipotle,19.89,Expense,Debit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01043,2023-01-27,Entertainment,Entertainment,AMC Theatres,36.24,Expense,Credit Card,2023-01,2023,1,,Jan 2023,False
+TXN-01030,2023-01-29,Groceries,Groceries,Walmart Grocery,67.49,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01029,2023-01-30,Groceries,Groceries,Whole Foods,61.26,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01026,2023-01-30,Groceries,Groceries,Walmart Grocery,47.61,Expense,Credit Card,2023-01,2023,1,,Jan 2023,True
+TXN-01078,2023-02-02,Entertainment,Entertainment,AMC Theatres,19.07,Expense,ACH Transfer,2023-02,2023,2,,Feb 2023,False
+TXN-01085,2023-02-02,Savings,Savings,Marcus Savings,500.0,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01075,2023-02-03,Healthcare,Healthcare,OU Medical,165.88,Expense,Credit Card,2023-02,2023,2,,Feb 2023,True
+TXN-01061,2023-02-03,Groceries,Groceries,Trader Joe's,58.39,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01057,2023-02-04,Housing,Housing,Metro Property Mgmt,1400.0,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01058,2023-02-05,Groceries,Groceries,Kroger,66.12,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01059,2023-02-07,Groceries,Groceries,Trader Joe's,33.4,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01066,2023-02-07,Dining Out,Dining Out,Olive Garden,31.86,Expense,Credit Card,2023-02,2023,2,,Feb 2023,True
+TXN-01073,2023-02-07,Transportation,Transportation,Shell Gas,62.66,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01083,2023-02-07,Subscriptions,Subscriptions,Netflix,14.33,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01084,2023-02-08,Subscriptions,Subscriptions,YouTube Premium,15.75,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01079,2023-02-08,Shopping,Shopping,Nike,90.26,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01067,2023-02-10,Dining Out,Dining Out,Chick-fil-A,36.96,Expense,Credit Card,2023-02,2023,2,,Feb 2023,True
+TXN-01074,2023-02-10,Utilities,Utilities,OG&E Electric,80.15,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01076,2023-02-11,Entertainment,Entertainment,AMC Theatres,23.15,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01069,2023-02-13,Dining Out,Dining Out,Starbucks,30.35,Expense,Credit Card,2023-02,2023,2,,Feb 2023,True
+TXN-01064,2023-02-14,Dining Out,Dining Out,Olive Garden,48.12,Expense,Debit Card,2023-02,2023,2,,Feb 2023,True
+TXN-01063,2023-02-15,Groceries,Groceries,Whole Foods,37.13,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01065,2023-02-16,Dining Out,Dining Out,Olive Garden,23.19,Expense,Debit Card,2023-02,2023,2,,Feb 2023,True
+TXN-01072,2023-02-16,Transportation,Transportation,Toll Authority,20.09,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01080,2023-02-19,Shopping,Shopping,TJ Maxx,56.22,Expense,Cash,2023-02,2023,2,,Feb 2023,False
+TXN-01068,2023-02-20,Dining Out,Dining Out,Chick-fil-A,32.5,Expense,Cash,2023-02,2023,2,,Feb 2023,True
+TXN-01081,2023-02-21,Subscriptions,Subscriptions,Spotify,11.02,Expense,Cash,2023-02,2023,2,,Feb 2023,False
+TXN-01001,2023-02-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-02,2023,2,Bi-weekly paycheck,Feb 2023,False
+TXN-01082,2023-02-23,Subscriptions,Subscriptions,Netflix,12.6,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01071,2023-02-23,Transportation,Transportation,Toll Authority,49.28,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01060,2023-02-23,Groceries,Groceries,Whole Foods,72.86,Expense,Debit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01062,2023-02-26,Groceries,Groceries,Walmart Grocery,67.71,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01070,2023-02-27,Transportation,Transportation,City Parking,43.54,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01077,2023-02-27,Entertainment,Entertainment,Steam Games,28.82,Expense,Credit Card,2023-02,2023,2,,Feb 2023,False
+TXN-01117,2023-03-02,Savings,Savings,Vanguard Transfer,500.0,Expense,Credit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01102,2023-03-02,Transportation,Transportation,City Parking,49.99,Expense,Debit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01095,2023-03-02,Dining Out,Dining Out,Panda Express,23.69,Expense,Credit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01092,2023-03-03,Groceries,Groceries,Walmart Grocery,70.91,Expense,Credit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01111,2023-03-03,Shopping,Shopping,Amazon,42.45,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01086,2023-03-03,Housing,Housing,Oakwood Apartments,1400.0,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01087,2023-03-06,Groceries,Groceries,Aldi,79.49,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,True
+TXN-01096,2023-03-06,Dining Out,Dining Out,Starbucks,10.55,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01105,2023-03-07,Utilities,Utilities,OG&E Electric,83.73,Expense,Credit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01088,2023-03-08,Groceries,Groceries,Whole Foods,91.7,Expense,Debit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01097,2023-03-08,Dining Out,Dining Out,Chick-fil-A,17.35,Expense,Credit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01107,2023-03-08,Entertainment,Entertainment,Steam Games,9.24,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01115,2023-03-09,Subscriptions,Subscriptions,Hulu,15.72,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,False
+TXN-01113,2023-03-11,Subscriptions,Subscriptions,Adobe CC,14.53,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01114,2023-03-11,Subscriptions,Subscriptions,Adobe CC,11.17,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01109,2023-03-12,Entertainment,Entertainment,AMC Theatres,39.33,Expense,Credit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01099,2023-03-12,Dining Out,Dining Out,Local Bistro,84.09,Expense,Credit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01098,2023-03-12,Dining Out,Dining Out,Panda Express,2.52,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,False
+TXN-01090,2023-03-12,Groceries,Groceries,Whole Foods,68.89,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,True
+TXN-01100,2023-03-15,Transportation,Transportation,City Parking,50.35,Expense,Credit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01103,2023-03-17,Transportation,Transportation,Toll Authority,46.8,Expense,Credit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01112,2023-03-18,Shopping,Shopping,Amazon,35.82,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,False
+TXN-01101,2023-03-19,Transportation,Transportation,City Parking,38.15,Expense,Debit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01093,2023-03-19,Groceries,Groceries,Walmart Grocery,37.67,Expense,Credit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01089,2023-03-21,Groceries,Groceries,Kroger,60.16,Expense,Debit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01002,2023-03-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-03,2023,3,Bi-weekly paycheck,Mar 2023,False
+TXN-01104,2023-03-22,Utilities,Utilities,OG&E Electric,80.59,Expense,Debit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01108,2023-03-24,Entertainment,Entertainment,Bowling Alley,36.4,Expense,Cash,2023-03,2023,3,,Mar 2023,False
+TXN-01106,2023-03-24,Healthcare,Healthcare,OU Medical,78.6,Expense,Credit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01091,2023-03-25,Groceries,Groceries,Trader Joe's,62.52,Expense,Credit Card,2023-03,2023,3,,Mar 2023,True
+TXN-01094,2023-03-25,Dining Out,Dining Out,Panda Express,36.28,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,False
+TXN-01116,2023-03-29,Subscriptions,Subscriptions,YouTube Premium,12.36,Expense,ACH Transfer,2023-03,2023,3,,Mar 2023,False
+TXN-01110,2023-03-30,Shopping,Shopping,Best Buy,84.59,Expense,Debit Card,2023-03,2023,3,,Mar 2023,False
+TXN-01127,2023-04-03,Dining Out,Dining Out,Chick-fil-A,10.9,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01120,2023-04-04,Groceries,Groceries,Kroger,110.99,Expense,ACH Transfer,2023-04,2023,4,,Apr 2023,True
+TXN-01140,2023-04-04,Entertainment,Entertainment,AMC Theatres,30.6,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01139,2023-04-04,Entertainment,Entertainment,Local Gym,31.11,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01124,2023-04-04,Groceries,Groceries,Walmart Grocery,38.13,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01134,2023-04-06,Transportation,Transportation,Shell Gas,34.43,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01145,2023-04-07,Subscriptions,Subscriptions,YouTube Premium,11.72,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01131,2023-04-10,Dining Out,Dining Out,Olive Garden,30.93,Expense,Credit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01141,2023-04-10,Entertainment,Entertainment,AMC Theatres,15.09,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01122,2023-04-11,Groceries,Groceries,Whole Foods,59.69,Expense,Credit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01135,2023-04-11,Transportation,Transportation,Uber,37.51,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01119,2023-04-12,Groceries,Groceries,Walmart Grocery,59.13,Expense,Credit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01143,2023-04-13,Subscriptions,Subscriptions,Netflix,16.08,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01129,2023-04-14,Dining Out,Dining Out,Chick-fil-A,35.97,Expense,Credit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01138,2023-04-14,Entertainment,Entertainment,Local Gym,33.77,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01130,2023-04-14,Dining Out,Dining Out,Olive Garden,7.19,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01146,2023-04-15,Subscriptions,Subscriptions,Hulu,15.35,Expense,ACH Transfer,2023-04,2023,4,,Apr 2023,False
+TXN-01148,2023-04-17,Savings,Savings,Vanguard Transfer,500.0,Expense,ACH Transfer,2023-04,2023,4,,Apr 2023,False
+TXN-01142,2023-04-19,Shopping,Shopping,Nike,50.22,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01132,2023-04-19,Dining Out,Dining Out,Olive Garden,40.97,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01003,2023-04-20,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-04,2023,4,Bi-weekly paycheck,Apr 2023,False
+TXN-01126,2023-04-21,Dining Out,Dining Out,Starbucks,44.7,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01128,2023-04-23,Dining Out,Dining Out,Panda Express,43.78,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01147,2023-04-24,Subscriptions,Subscriptions,YouTube Premium,16.82,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01136,2023-04-24,Utilities,Utilities,OG&E Electric,83.51,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01125,2023-04-25,Groceries,Groceries,Aldi,46.55,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01144,2023-04-27,Subscriptions,Subscriptions,YouTube Premium,14.98,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01123,2023-04-28,Groceries,Groceries,Walmart Grocery,65.67,Expense,Credit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01133,2023-04-29,Transportation,Transportation,BP Gas,57.32,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01137,2023-04-29,Healthcare,Healthcare,Dentist Office,83.94,Expense,Credit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01118,2023-04-29,Housing,Housing,Metro Property Mgmt,1400.0,Expense,Debit Card,2023-04,2023,4,,Apr 2023,False
+TXN-01121,2023-04-29,Groceries,Groceries,Aldi,77.74,Expense,Debit Card,2023-04,2023,4,,Apr 2023,True
+TXN-01151,2023-05-03,Groceries,Groceries,Trader Joe's,52.03,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01180,2023-05-03,Savings,Savings,Ally Bank Savings,500.0,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01171,2023-05-04,Entertainment,Entertainment,Concert Hall,28.47,Expense,ACH Transfer,2023-05,2023,5,,May 2023,True
+TXN-01174,2023-05-06,Shopping,Shopping,Amazon,56.86,Expense,ACH Transfer,2023-05,2023,5,,May 2023,False
+TXN-01157,2023-05-07,Dining Out,Dining Out,Panda Express,27.06,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01149,2023-05-07,Housing,Housing,River Bend Rentals,1400.0,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01167,2023-05-07,Utilities,Utilities,City Water Dept,78.77,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01158,2023-05-08,Dining Out,Dining Out,Chipotle,28.71,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01150,2023-05-08,Groceries,Groceries,Walmart Grocery,13.89,Expense,Debit Card,2023-05,2023,5,,May 2023,False
+TXN-01153,2023-05-10,Groceries,Groceries,Whole Foods,67.54,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01152,2023-05-11,Groceries,Groceries,Walmart Grocery,62.15,Expense,Cash,2023-05,2023,5,,May 2023,False
+TXN-01177,2023-05-11,Subscriptions,Subscriptions,Spotify,13.1,Expense,ACH Transfer,2023-05,2023,5,,May 2023,True
+TXN-01161,2023-05-12,Dining Out,Dining Out,Olive Garden,13.05,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01166,2023-05-12,Transportation,Transportation,Lyft,61.58,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01162,2023-05-13,Dining Out,Dining Out,Local Bistro,42.99,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01169,2023-05-13,Entertainment,Entertainment,Local Gym,36.36,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01154,2023-05-15,Groceries,Groceries,Trader Joe's,38.05,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01175,2023-05-16,Shopping,Shopping,Amazon,45.3,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01165,2023-05-18,Transportation,Transportation,Toll Authority,38.05,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01170,2023-05-18,Entertainment,Entertainment,Bowling Alley,25.97,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01178,2023-05-18,Subscriptions,Subscriptions,Adobe CC,43.25,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01163,2023-05-19,Transportation,Transportation,Toll Authority,48.64,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01004,2023-05-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-05,2023,5,Bi-weekly paycheck,May 2023,False
+TXN-01160,2023-05-19,Dining Out,Dining Out,Chick-fil-A,55.98,Expense,ACH Transfer,2023-05,2023,5,,May 2023,True
+TXN-01172,2023-05-22,Entertainment,Entertainment,Local Gym,46.82,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01168,2023-05-22,Healthcare,Healthcare,Dentist Office,144.98,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01164,2023-05-22,Transportation,Transportation,Shell Gas,49.96,Expense,Credit Card,2023-05,2023,5,,May 2023,True
+TXN-01176,2023-05-24,Subscriptions,Subscriptions,Spotify,14.58,Expense,ACH Transfer,2023-05,2023,5,,May 2023,True
+TXN-01159,2023-05-25,Dining Out,Dining Out,Starbucks,39.3,Expense,ACH Transfer,2023-05,2023,5,,May 2023,True
+TXN-01156,2023-05-28,Groceries,Groceries,Kroger,56.34,Expense,ACH Transfer,2023-05,2023,5,,May 2023,False
+TXN-01179,2023-05-28,Subscriptions,Subscriptions,Hulu,11.94,Expense,Debit Card,2023-05,2023,5,,May 2023,True
+TXN-01155,2023-05-28,Groceries,Groceries,Kroger,57.55,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01173,2023-05-29,Shopping,Shopping,TJ Maxx,35.26,Expense,Credit Card,2023-05,2023,5,,May 2023,False
+TXN-01186,2023-06-01,Groceries,Groceries,Walmart Grocery,43.33,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01191,2023-06-03,Dining Out,Dining Out,Olive Garden,20.75,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01198,2023-06-04,Utilities,Utilities,City Water Dept,86.03,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01199,2023-06-04,Healthcare,Healthcare,CVS Pharmacy,97.25,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01209,2023-06-04,Subscriptions,Subscriptions,Netflix,13.68,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01203,2023-06-06,Shopping,Shopping,Nike,54.37,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01196,2023-06-06,Transportation,Transportation,Shell Gas,67.07,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01193,2023-06-08,Dining Out,Dining Out,Local Bistro,35.14,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01189,2023-06-08,Dining Out,Dining Out,Starbucks,29.25,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01181,2023-06-09,Housing,Housing,Oakwood Apartments,1400.0,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01204,2023-06-09,Shopping,Shopping,Target,90.19,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01188,2023-06-10,Groceries,Groceries,Trader Joe's,45.64,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01194,2023-06-11,Transportation,Transportation,Uber,31.6,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01182,2023-06-11,Groceries,Groceries,Whole Foods,50.06,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01187,2023-06-12,Groceries,Groceries,Aldi,43.44,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01190,2023-06-12,Dining Out,Dining Out,Chipotle,24.11,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01202,2023-06-13,Entertainment,Entertainment,Bowling Alley,21.75,Expense,Cash,2023-06,2023,6,,Jun 2023,False
+TXN-01208,2023-06-14,Subscriptions,Subscriptions,Hulu,14.38,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01183,2023-06-14,Groceries,Groceries,Kroger,75.83,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01184,2023-06-15,Groceries,Groceries,Kroger,15.11,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01197,2023-06-16,Transportation,Transportation,Uber,32.54,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01201,2023-06-18,Entertainment,Entertainment,Steam Games,21.54,Expense,ACH Transfer,2023-06,2023,6,,Jun 2023,False
+TXN-01005,2023-06-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-06,2023,6,Bi-weekly paycheck,Jun 2023,False
+TXN-01200,2023-06-21,Entertainment,Entertainment,Local Gym,23.76,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01210,2023-06-22,Savings,Savings,Ally Bank Savings,500.0,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01207,2023-06-22,Subscriptions,Subscriptions,Hulu,19.6,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01195,2023-06-23,Transportation,Transportation,Toll Authority,44.25,Expense,Debit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01185,2023-06-25,Groceries,Groceries,Walmart Grocery,33.89,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01206,2023-06-25,Subscriptions,Subscriptions,Netflix,14.04,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01192,2023-06-26,Dining Out,Dining Out,Panda Express,38.33,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01205,2023-06-28,Shopping,Shopping,Nike,16.13,Expense,Credit Card,2023-06,2023,6,,Jun 2023,False
+TXN-01223,2023-07-01,Transportation,Transportation,BP Gas,60.72,Expense,Credit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01221,2023-07-01,Dining Out,Dining Out,Starbucks,61.5,Expense,Debit Card,2023-07,2023,7,,Jul 2023,False
+TXN-01220,2023-07-01,Dining Out,Dining Out,Olive Garden,40.56,Expense,Credit Card,2023-07,2023,7,,Jul 2023,False
+TXN-01228,2023-07-02,Entertainment,Entertainment,AMC Theatres,32.69,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01233,2023-07-02,Shopping,Shopping,Target,63.13,Expense,Credit Card,2023-07,2023,7,,Jul 2023,False
+TXN-01224,2023-07-02,Transportation,Transportation,Shell Gas,100.23,Expense,Credit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01217,2023-07-03,Groceries,Groceries,Kroger,73.84,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01232,2023-07-04,Shopping,Shopping,Amazon,74.6,Expense,ACH Transfer,2023-07,2023,7,,Jul 2023,False
+TXN-01235,2023-07-04,Subscriptions,Subscriptions,Microsoft 365,18.59,Expense,ACH Transfer,2023-07,2023,7,,Jul 2023,True
+TXN-01214,2023-07-06,Groceries,Groceries,Trader Joe's,50.81,Expense,ACH Transfer,2023-07,2023,7,,Jul 2023,True
+TXN-01238,2023-07-08,Subscriptions,Subscriptions,Microsoft 365,14.07,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01225,2023-07-12,Transportation,Transportation,Toll Authority,56.26,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01234,2023-07-12,Subscriptions,Subscriptions,YouTube Premium,14.93,Expense,Cash,2023-07,2023,7,,Jul 2023,True
+TXN-01215,2023-07-15,Groceries,Groceries,Walmart Grocery,48.02,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01236,2023-07-15,Subscriptions,Subscriptions,Spotify,17.41,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01231,2023-07-17,Entertainment,Entertainment,Concert Hall,24.23,Expense,Credit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01229,2023-07-18,Entertainment,Entertainment,Local Gym,33.08,Expense,Credit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01222,2023-07-19,Dining Out,Dining Out,Panda Express,11.82,Expense,Debit Card,2023-07,2023,7,,Jul 2023,False
+TXN-01227,2023-07-20,Healthcare,Healthcare,Walgreens,37.9,Expense,Credit Card,2023-07,2023,7,,Jul 2023,False
+TXN-01216,2023-07-20,Groceries,Groceries,Kroger,68.3,Expense,Credit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01006,2023-07-20,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-07,2023,7,Bi-weekly paycheck,Jul 2023,False
+TXN-01239,2023-07-21,Savings,Savings,Vanguard Transfer,500.0,Expense,Debit Card,2023-07,2023,7,,Jul 2023,False
+TXN-01212,2023-07-21,Groceries,Groceries,Walmart Grocery,163.06,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01211,2023-07-22,Housing,Housing,River Bend Rentals,1400.0,Expense,Cash,2023-07,2023,7,,Jul 2023,False
+TXN-01230,2023-07-23,Entertainment,Entertainment,Concert Hall,31.44,Expense,Credit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01218,2023-07-25,Groceries,Groceries,Whole Foods,41.58,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01237,2023-07-26,Subscriptions,Subscriptions,Hulu,15.69,Expense,ACH Transfer,2023-07,2023,7,,Jul 2023,True
+TXN-01219,2023-07-27,Dining Out,Dining Out,Olive Garden,40.75,Expense,ACH Transfer,2023-07,2023,7,,Jul 2023,False
+TXN-01226,2023-07-28,Utilities,Utilities,ONG Gas,74.03,Expense,ACH Transfer,2023-07,2023,7,,Jul 2023,False
+TXN-01213,2023-07-30,Groceries,Groceries,Aldi,25.71,Expense,Debit Card,2023-07,2023,7,,Jul 2023,True
+TXN-01250,2023-08-01,Dining Out,Dining Out,Olive Garden,40.14,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01265,2023-08-01,Subscriptions,Subscriptions,YouTube Premium,13.64,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01249,2023-08-02,Dining Out,Dining Out,Olive Garden,36.53,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01248,2023-08-02,Dining Out,Dining Out,Panda Express,25.29,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01267,2023-08-04,Subscriptions,Subscriptions,Hulu,16.11,Expense,ACH Transfer,2023-08,2023,8,,Aug 2023,False
+TXN-01253,2023-08-05,Transportation,Transportation,Uber,42.71,Expense,Cash,2023-08,2023,8,,Aug 2023,False
+TXN-01251,2023-08-05,Dining Out,Dining Out,Panda Express,31.42,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01259,2023-08-07,Entertainment,Entertainment,Concert Hall,12.2,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01261,2023-08-12,Entertainment,Entertainment,Local Gym,27.75,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01257,2023-08-16,Utilities,Utilities,ONG Gas,206.62,Expense,Credit Card,2023-08,2023,8,,Aug 2023,True
+TXN-01245,2023-08-17,Groceries,Groceries,Aldi,73.13,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01268,2023-08-18,Subscriptions,Subscriptions,Adobe CC,11.93,Expense,ACH Transfer,2023-08,2023,8,,Aug 2023,False
+TXN-01243,2023-08-19,Groceries,Groceries,Kroger,34.6,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01007,2023-08-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-08,2023,8,Bi-weekly paycheck,Aug 2023,False
+TXN-01269,2023-08-22,Savings,Savings,Marcus Savings,500.0,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01247,2023-08-22,Dining Out,Dining Out,Starbucks,24.75,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01254,2023-08-23,Transportation,Transportation,Uber,57.67,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01264,2023-08-24,Shopping,Shopping,Amazon,59.43,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01258,2023-08-24,Healthcare,Healthcare,CVS Pharmacy,106.27,Expense,Debit Card,2023-08,2023,8,,Aug 2023,True
+TXN-01260,2023-08-24,Entertainment,Entertainment,Steam Games,25.23,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01241,2023-08-25,Groceries,Groceries,Walmart Grocery,73.1,Expense,ACH Transfer,2023-08,2023,8,,Aug 2023,False
+TXN-01242,2023-08-25,Groceries,Groceries,Walmart Grocery,42.75,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01244,2023-08-25,Groceries,Groceries,Trader Joe's,66.19,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01252,2023-08-26,Dining Out,Dining Out,Olive Garden,26.19,Expense,Cash,2023-08,2023,8,,Aug 2023,False
+TXN-01262,2023-08-26,Entertainment,Entertainment,AMC Theatres,27.76,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01255,2023-08-27,Transportation,Transportation,Lyft,19.97,Expense,Debit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01246,2023-08-29,Groceries,Groceries,Walmart Grocery,33.38,Expense,ACH Transfer,2023-08,2023,8,,Aug 2023,False
+TXN-01240,2023-08-29,Housing,Housing,Oakwood Apartments,1400.0,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01266,2023-08-30,Subscriptions,Subscriptions,Spotify,16.84,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01256,2023-08-30,Utilities,Utilities,AT&T Internet,78.43,Expense,Debit Card,2023-08,2023,8,,Aug 2023,True
+TXN-01263,2023-08-30,Shopping,Shopping,Nike,120.05,Expense,Credit Card,2023-08,2023,8,,Aug 2023,False
+TXN-01296,2023-09-01,Shopping,Shopping,Target,72.39,Expense,ACH Transfer,2023-09,2023,9,,Sep 2023,True
+TXN-01292,2023-09-02,Entertainment,Entertainment,Local Gym,37.16,Expense,Debit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01290,2023-09-02,Healthcare,Healthcare,Dentist Office,68.47,Expense,Credit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01288,2023-09-02,Utilities,Utilities,OG&E Electric,71.78,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01276,2023-09-03,Groceries,Groceries,Kroger,112.75,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01294,2023-09-05,Shopping,Shopping,TJ Maxx,63.01,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01282,2023-09-06,Dining Out,Dining Out,Starbucks,31.69,Expense,Credit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01291,2023-09-06,Entertainment,Entertainment,AMC Theatres,34.29,Expense,Debit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01273,2023-09-07,Groceries,Groceries,Aldi,39.53,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01284,2023-09-10,Transportation,Transportation,Uber,30.73,Expense,Debit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01285,2023-09-10,Transportation,Transportation,Uber,13.88,Expense,Credit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01286,2023-09-10,Transportation,Transportation,Lyft,39.55,Expense,ACH Transfer,2023-09,2023,9,,Sep 2023,False
+TXN-01301,2023-09-10,Savings,Savings,Marcus Savings,500.0,Expense,Credit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01275,2023-09-10,Groceries,Groceries,Trader Joe's,42.35,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01283,2023-09-12,Dining Out,Dining Out,Chick-fil-A,46.07,Expense,Debit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01287,2023-09-13,Transportation,Transportation,Toll Authority,75.02,Expense,Credit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01289,2023-09-13,Utilities,Utilities,City Water Dept,95.77,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01271,2023-09-14,Groceries,Groceries,Trader Joe's,81.04,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01274,2023-09-15,Groceries,Groceries,Walmart Grocery,47.06,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01272,2023-09-18,Groceries,Groceries,Whole Foods,57.97,Expense,ACH Transfer,2023-09,2023,9,,Sep 2023,True
+TXN-01270,2023-09-20,Housing,Housing,River Bend Rentals,1400.0,Expense,ACH Transfer,2023-09,2023,9,,Sep 2023,False
+TXN-01293,2023-09-20,Entertainment,Entertainment,Concert Hall,31.46,Expense,Credit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01008,2023-09-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-09,2023,9,Bi-weekly paycheck,Sep 2023,False
+TXN-01300,2023-09-22,Subscriptions,Subscriptions,Spotify,13.79,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01281,2023-09-22,Dining Out,Dining Out,Local Bistro,13.41,Expense,ACH Transfer,2023-09,2023,9,,Sep 2023,False
+TXN-01279,2023-09-26,Dining Out,Dining Out,Starbucks,53.37,Expense,Debit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01295,2023-09-26,Shopping,Shopping,Target,81.75,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01297,2023-09-27,Subscriptions,Subscriptions,Netflix,15.13,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01277,2023-09-28,Groceries,Groceries,Kroger,60.75,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01298,2023-09-28,Subscriptions,Subscriptions,YouTube Premium,16.68,Expense,Debit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01280,2023-09-29,Dining Out,Dining Out,Chipotle,16.67,Expense,Debit Card,2023-09,2023,9,,Sep 2023,False
+TXN-01299,2023-09-29,Subscriptions,Subscriptions,Netflix,51.74,Expense,Cash,2023-09,2023,9,,Sep 2023,True
+TXN-01278,2023-09-29,Groceries,Groceries,Whole Foods,187.95,Expense,Credit Card,2023-09,2023,9,,Sep 2023,True
+TXN-01305,2023-10-01,Groceries,Groceries,Walmart Grocery,61.77,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01303,2023-10-01,Groceries,Groceries,Aldi,35.83,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01307,2023-10-01,Groceries,Groceries,Aldi,34.16,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01323,2023-10-05,Entertainment,Entertainment,Local Gym,11.15,Expense,Credit Card,2023-10,2023,10,,Oct 2023,True
+TXN-01321,2023-10-06,Entertainment,Entertainment,Local Gym,9.08,Expense,Debit Card,2023-10,2023,10,,Oct 2023,True
+TXN-01326,2023-10-07,Shopping,Shopping,Nike,34.63,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01310,2023-10-08,Dining Out,Dining Out,Panda Express,22.95,Expense,Debit Card,2023-10,2023,10,,Oct 2023,True
+TXN-01330,2023-10-11,Subscriptions,Subscriptions,Spotify,17.62,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01302,2023-10-12,Housing,Housing,River Bend Rentals,1400.0,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01332,2023-10-12,Savings,Savings,Vanguard Transfer,500.0,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01306,2023-10-12,Groceries,Groceries,Walmart Grocery,39.26,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01315,2023-10-13,Transportation,Transportation,City Parking,35.77,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01309,2023-10-13,Dining Out,Dining Out,Panda Express,33.04,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,True
+TXN-01331,2023-10-14,Subscriptions,Subscriptions,Netflix,16.39,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01324,2023-10-14,Entertainment,Entertainment,Steam Games,31.9,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,True
+TXN-01308,2023-10-15,Groceries,Groceries,Walmart Grocery,30.32,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01314,2023-10-16,Dining Out,Dining Out,Chipotle,33.93,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,True
+TXN-01311,2023-10-16,Dining Out,Dining Out,Panda Express,28.63,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,True
+TXN-01322,2023-10-17,Entertainment,Entertainment,AMC Theatres,42.59,Expense,Cash,2023-10,2023,10,,Oct 2023,True
+TXN-01312,2023-10-17,Dining Out,Dining Out,Chick-fil-A,50.17,Expense,Cash,2023-10,2023,10,,Oct 2023,True
+TXN-01304,2023-10-17,Groceries,Groceries,Whole Foods,30.34,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01320,2023-10-18,Healthcare,Healthcare,OU Medical,149.35,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,True
+TXN-01317,2023-10-18,Transportation,Transportation,Shell Gas,23.81,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,False
+TXN-01009,2023-10-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-10,2023,10,Bi-weekly paycheck,Oct 2023,False
+TXN-01329,2023-10-20,Subscriptions,Subscriptions,Spotify,14.62,Expense,Credit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01328,2023-10-21,Subscriptions,Subscriptions,Spotify,12.29,Expense,Cash,2023-10,2023,10,,Oct 2023,False
+TXN-01325,2023-10-24,Entertainment,Entertainment,Concert Hall,40.04,Expense,ACH Transfer,2023-10,2023,10,,Oct 2023,True
+TXN-01327,2023-10-25,Shopping,Shopping,H&M,64.9,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01313,2023-10-25,Dining Out,Dining Out,Local Bistro,41.28,Expense,Credit Card,2023-10,2023,10,,Oct 2023,True
+TXN-01319,2023-10-26,Utilities,Utilities,OG&E Electric,67.99,Expense,Credit Card,2023-10,2023,10,,Oct 2023,True
+TXN-01318,2023-10-28,Utilities,Utilities,City Water Dept,82.47,Expense,Debit Card,2023-10,2023,10,,Oct 2023,True
+TXN-01316,2023-10-29,Transportation,Transportation,Toll Authority,68.05,Expense,Debit Card,2023-10,2023,10,,Oct 2023,False
+TXN-01345,2023-11-01,Dining Out,Dining Out,Local Bistro,43.97,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01347,2023-11-04,Transportation,Transportation,Lyft,55.8,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01355,2023-11-04,Entertainment,Entertainment,AMC Theatres,17.54,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01364,2023-11-04,Savings,Savings,Ally Bank Savings,500.0,Expense,Cash,2023-11,2023,11,,Nov 2023,False
+TXN-01333,2023-11-05,Housing,Housing,Oakwood Apartments,1400.0,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01356,2023-11-06,Shopping,Shopping,Amazon,160.13,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01336,2023-11-09,Groceries,Groceries,Walmart Grocery,55.37,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01344,2023-11-10,Dining Out,Dining Out,Chipotle,38.12,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01341,2023-11-10,Dining Out,Dining Out,Olive Garden,72.7,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01337,2023-11-11,Groceries,Groceries,Walmart Grocery,74.65,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01348,2023-11-12,Transportation,Transportation,BP Gas,19.35,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01362,2023-11-12,Subscriptions,Subscriptions,Microsoft 365,15.73,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01338,2023-11-15,Groceries,Groceries,Trader Joe's,55.59,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01357,2023-11-16,Shopping,Shopping,Nike,30.17,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01353,2023-11-16,Entertainment,Entertainment,Concert Hall,41.27,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01339,2023-11-17,Groceries,Groceries,Walmart Grocery,17.27,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01346,2023-11-18,Transportation,Transportation,Lyft,51.03,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01343,2023-11-18,Dining Out,Dining Out,Starbucks,34.37,Expense,ACH Transfer,2023-11,2023,11,,Nov 2023,True
+TXN-01358,2023-11-19,Shopping,Shopping,TJ Maxx,59.0,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01340,2023-11-20,Dining Out,Dining Out,Local Bistro,23.56,Expense,ACH Transfer,2023-11,2023,11,,Nov 2023,True
+TXN-01334,2023-11-20,Groceries,Groceries,Walmart Grocery,66.84,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01010,2023-11-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-11,2023,11,Bi-weekly paycheck,Nov 2023,False
+TXN-01363,2023-11-22,Subscriptions,Subscriptions,Microsoft 365,14.49,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01350,2023-11-23,Utilities,Utilities,OG&E Electric,80.49,Expense,Debit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01352,2023-11-25,Entertainment,Entertainment,Concert Hall,23.67,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01359,2023-11-26,Subscriptions,Subscriptions,Netflix,14.58,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01335,2023-11-26,Groceries,Groceries,Aldi,36.43,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01361,2023-11-27,Subscriptions,Subscriptions,Hulu,14.24,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01354,2023-11-28,Entertainment,Entertainment,Concert Hall,25.67,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01360,2023-11-28,Subscriptions,Subscriptions,Spotify,14.6,Expense,Credit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01349,2023-11-29,Utilities,Utilities,AT&T Internet,71.63,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01351,2023-11-29,Healthcare,Healthcare,Dentist Office,38.97,Expense,Debit Card,2023-11,2023,11,,Nov 2023,False
+TXN-01342,2023-11-29,Dining Out,Dining Out,Starbucks,29.3,Expense,Credit Card,2023-11,2023,11,,Nov 2023,True
+TXN-01390,2023-12-01,Subscriptions,Subscriptions,Microsoft 365,13.02,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01371,2023-12-02,Groceries,Groceries,Trader Joe's,42.56,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01367,2023-12-03,Groceries,Groceries,Whole Foods,69.94,Expense,Cash,2023-12,2023,12,,Dec 2023,False
+TXN-01385,2023-12-05,Entertainment,Entertainment,Local Gym,35.98,Expense,Cash,2023-12,2023,12,,Dec 2023,False
+TXN-01381,2023-12-08,Utilities,Utilities,OG&E Electric,74.8,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01374,2023-12-10,Dining Out,Dining Out,Panda Express,35.63,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01392,2023-12-10,Savings,Savings,Vanguard Transfer,500.0,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01383,2023-12-11,Entertainment,Entertainment,Bowling Alley,32.45,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01372,2023-12-12,Dining Out,Dining Out,Local Bistro,35.78,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01375,2023-12-14,Dining Out,Dining Out,Starbucks,12.09,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01388,2023-12-15,Subscriptions,Subscriptions,Adobe CC,15.25,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01378,2023-12-16,Transportation,Transportation,City Parking,56.73,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01366,2023-12-17,Groceries,Groceries,Walmart Grocery,28.32,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01380,2023-12-18,Transportation,Transportation,City Parking,49.88,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01370,2023-12-18,Groceries,Groceries,Kroger,68.92,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01389,2023-12-19,Subscriptions,Subscriptions,Spotify,13.62,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01387,2023-12-20,Shopping,Shopping,Amazon,98.12,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01376,2023-12-20,Dining Out,Dining Out,Starbucks,35.92,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01382,2023-12-20,Healthcare,Healthcare,Eye Care Plus,79.08,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01369,2023-12-20,Groceries,Groceries,Walmart Grocery,45.35,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01368,2023-12-21,Groceries,Groceries,Kroger,89.71,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01011,2023-12-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2023-12,2023,12,Bi-weekly paycheck,Dec 2023,False
+TXN-01377,2023-12-22,Dining Out,Dining Out,Panda Express,32.36,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01386,2023-12-22,Shopping,Shopping,Best Buy,7.65,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01365,2023-12-23,Housing,Housing,River Bend Rentals,1400.0,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01379,2023-12-23,Transportation,Transportation,City Parking,27.82,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01384,2023-12-26,Entertainment,Entertainment,Bowling Alley,36.27,Expense,Credit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01373,2023-12-27,Dining Out,Dining Out,Olive Garden,30.0,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01391,2023-12-30,Subscriptions,Subscriptions,Adobe CC,15.77,Expense,Debit Card,2023-12,2023,12,,Dec 2023,False
+TXN-01396,2024-01-01,Groceries,Groceries,Aldi,90.4,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01405,2024-01-01,Dining Out,Dining Out,Local Bistro,42.61,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01417,2024-01-01,Entertainment,Entertainment,Bowling Alley,77.85,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01409,2024-01-01,Transportation,Transportation,Toll Authority,28.54,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01403,2024-01-02,Dining Out,Dining Out,Olive Garden,8.76,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01414,2024-01-02,Healthcare,Healthcare,Eye Care Plus,91.71,Expense,Credit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01400,2024-01-02,Groceries,Groceries,Kroger,52.59,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01424,2024-01-03,Subscriptions,Subscriptions,Netflix,15.05,Expense,Credit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01399,2024-01-03,Groceries,Groceries,Whole Foods,11.93,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01416,2024-01-05,Entertainment,Entertainment,Bowling Alley,28.86,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01421,2024-01-05,Shopping,Shopping,Best Buy,43.91,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01402,2024-01-09,Dining Out,Dining Out,Chick-fil-A,19.17,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01393,2024-01-12,Housing,Housing,Oakwood Apartments,1400.0,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01394,2024-01-13,Groceries,Groceries,Trader Joe's,63.65,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01419,2024-01-14,Shopping,Shopping,TJ Maxx,91.77,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01398,2024-01-14,Groceries,Groceries,Kroger,35.49,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01412,2024-01-15,Utilities,Utilities,ONG Gas,70.52,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01418,2024-01-15,Entertainment,Entertainment,Steam Games,38.38,Expense,Credit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01410,2024-01-16,Transportation,Transportation,BP Gas,41.72,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01427,2024-01-16,Savings,Savings,Ally Bank Savings,500.0,Expense,ACH Transfer,2024-01,2024,1,,Jan 2024,False
+TXN-01415,2024-01-16,Entertainment,Entertainment,Concert Hall,20.32,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01411,2024-01-17,Utilities,Utilities,City Water Dept,77.1,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01012,2024-01-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-01,2024,1,Bi-weekly paycheck,Jan 2024,False
+TXN-01413,2024-01-23,Healthcare,Healthcare,OU Medical,75.93,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01420,2024-01-24,Shopping,Shopping,H&M,42.32,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01423,2024-01-25,Subscriptions,Subscriptions,YouTube Premium,15.37,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01422,2024-01-27,Subscriptions,Subscriptions,Microsoft 365,20.09,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01406,2024-01-27,Dining Out,Dining Out,Starbucks,37.85,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01397,2024-01-28,Groceries,Groceries,Aldi,46.25,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01404,2024-01-28,Dining Out,Dining Out,Starbucks,2.91,Expense,ACH Transfer,2024-01,2024,1,,Jan 2024,False
+TXN-01401,2024-01-29,Dining Out,Dining Out,Starbucks,86.77,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01425,2024-01-30,Subscriptions,Subscriptions,Microsoft 365,17.82,Expense,Credit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01408,2024-01-30,Transportation,Transportation,Shell Gas,56.34,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01407,2024-01-30,Transportation,Transportation,Shell Gas,22.79,Expense,Debit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01426,2024-01-30,Subscriptions,Subscriptions,Microsoft 365,13.28,Expense,Debit Card,2024-01,2024,1,,Jan 2024,True
+TXN-01395,2024-01-30,Groceries,Groceries,Walmart Grocery,59.56,Expense,Credit Card,2024-01,2024,1,,Jan 2024,False
+TXN-01441,2024-02-01,Transportation,Transportation,Toll Authority,52.76,Expense,ACH Transfer,2024-02,2024,2,,Feb 2024,False
+TXN-01451,2024-02-03,Entertainment,Entertainment,AMC Theatres,38.01,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01434,2024-02-04,Groceries,Groceries,Walmart Grocery,64.28,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01444,2024-02-04,Utilities,Utilities,City Water Dept,65.89,Expense,Credit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01457,2024-02-06,Subscriptions,Subscriptions,Microsoft 365,11.93,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01437,2024-02-07,Dining Out,Dining Out,Local Bistro,16.2,Expense,Debit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01453,2024-02-07,Shopping,Shopping,TJ Maxx,53.85,Expense,Cash,2024-02,2024,2,,Feb 2024,False
+TXN-01431,2024-02-07,Groceries,Groceries,Trader Joe's,58.65,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01454,2024-02-08,Subscriptions,Subscriptions,YouTube Premium,15.71,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01455,2024-02-08,Subscriptions,Subscriptions,Adobe CC,14.96,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01438,2024-02-08,Dining Out,Dining Out,Olive Garden,40.07,Expense,Credit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01446,2024-02-09,Utilities,Utilities,OG&E Electric,84.5,Expense,Cash,2024-02,2024,2,,Feb 2024,True
+TXN-01432,2024-02-10,Groceries,Groceries,Walmart Grocery,48.11,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01440,2024-02-11,Dining Out,Dining Out,Chick-fil-A,29.75,Expense,Credit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01439,2024-02-11,Dining Out,Dining Out,Panda Express,54.8,Expense,Debit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01433,2024-02-13,Groceries,Groceries,Trader Joe's,66.94,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01449,2024-02-14,Entertainment,Entertainment,AMC Theatres,28.36,Expense,ACH Transfer,2024-02,2024,2,,Feb 2024,False
+TXN-01430,2024-02-14,Groceries,Groceries,Kroger,65.98,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01436,2024-02-15,Dining Out,Dining Out,Starbucks,44.34,Expense,ACH Transfer,2024-02,2024,2,,Feb 2024,True
+TXN-01445,2024-02-16,Utilities,Utilities,City Water Dept,75.92,Expense,Debit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01447,2024-02-18,Healthcare,Healthcare,Dentist Office,69.86,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01443,2024-02-18,Transportation,Transportation,Uber,56.39,Expense,ACH Transfer,2024-02,2024,2,,Feb 2024,False
+TXN-01450,2024-02-19,Entertainment,Entertainment,Concert Hall,29.9,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01013,2024-02-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-02,2024,2,Bi-weekly paycheck,Feb 2024,False
+TXN-01442,2024-02-22,Transportation,Transportation,Lyft,31.07,Expense,Cash,2024-02,2024,2,,Feb 2024,False
+TXN-01458,2024-02-24,Savings,Savings,Ally Bank Savings,500.0,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01456,2024-02-26,Subscriptions,Subscriptions,Microsoft 365,10.0,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01429,2024-02-26,Groceries,Groceries,Whole Foods,59.15,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01452,2024-02-27,Shopping,Shopping,Amazon,51.12,Expense,Debit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01448,2024-02-28,Entertainment,Entertainment,Bowling Alley,20.66,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01435,2024-02-28,Dining Out,Dining Out,Olive Garden,19.92,Expense,Debit Card,2024-02,2024,2,,Feb 2024,True
+TXN-01428,2024-02-28,Housing,Housing,Oakwood Apartments,1400.0,Expense,Credit Card,2024-02,2024,2,,Feb 2024,False
+TXN-01466,2024-03-01,Groceries,Groceries,Walmart Grocery,57.17,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01463,2024-03-02,Groceries,Groceries,Aldi,55.32,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01459,2024-03-02,Housing,Housing,Oakwood Apartments,1400.0,Expense,Credit Card,2024-03,2024,3,,Mar 2024,True
+TXN-01462,2024-03-04,Groceries,Groceries,Aldi,71.14,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01481,2024-03-06,Shopping,Shopping,H&M,63.55,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01487,2024-03-06,Savings,Savings,Ally Bank Savings,500.0,Expense,ACH Transfer,2024-03,2024,3,,Mar 2024,True
+TXN-01465,2024-03-09,Groceries,Groceries,Kroger,62.63,Expense,ACH Transfer,2024-03,2024,3,,Mar 2024,False
+TXN-01461,2024-03-09,Groceries,Groceries,Whole Foods,53.27,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01477,2024-03-12,Healthcare,Healthcare,Walgreens,82.75,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01472,2024-03-13,Transportation,Transportation,BP Gas,98.56,Expense,ACH Transfer,2024-03,2024,3,,Mar 2024,False
+TXN-01483,2024-03-13,Subscriptions,Subscriptions,Microsoft 365,13.32,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01464,2024-03-13,Groceries,Groceries,Kroger,59.01,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01488,2024-03-14,Savings,Savings,Marcus Savings,500.0,Expense,ACH Transfer,2024-03,2024,3,,Mar 2024,True
+TXN-01485,2024-03-15,Subscriptions,Subscriptions,Microsoft 365,15.03,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01482,2024-03-16,Shopping,Shopping,H&M,49.09,Expense,ACH Transfer,2024-03,2024,3,,Mar 2024,False
+TXN-01479,2024-03-16,Entertainment,Entertainment,AMC Theatres,32.36,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01470,2024-03-16,Dining Out,Dining Out,Chick-fil-A,48.93,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01475,2024-03-17,Utilities,Utilities,ONG Gas,60.9,Expense,ACH Transfer,2024-03,2024,3,,Mar 2024,False
+TXN-01480,2024-03-19,Entertainment,Entertainment,Bowling Alley,41.26,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01467,2024-03-20,Dining Out,Dining Out,Local Bistro,23.96,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01474,2024-03-20,Transportation,Transportation,Uber,32.08,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01014,2024-03-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-03,2024,3,Bi-weekly paycheck,Mar 2024,False
+TXN-01460,2024-03-25,Housing,Housing,Oakwood Apartments,1400.0,Expense,Credit Card,2024-03,2024,3,,Mar 2024,True
+TXN-01473,2024-03-25,Transportation,Transportation,Shell Gas,35.29,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01476,2024-03-26,Utilities,Utilities,AT&T Internet,79.65,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01478,2024-03-27,Entertainment,Entertainment,Bowling Alley,25.85,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01471,2024-03-27,Dining Out,Dining Out,Chipotle,32.7,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01484,2024-03-28,Subscriptions,Subscriptions,Spotify,14.11,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01468,2024-03-28,Dining Out,Dining Out,Olive Garden,35.21,Expense,Credit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01486,2024-03-29,Subscriptions,Subscriptions,Microsoft 365,15.31,Expense,Cash,2024-03,2024,3,,Mar 2024,False
+TXN-01469,2024-03-29,Dining Out,Dining Out,Olive Garden,18.92,Expense,Debit Card,2024-03,2024,3,,Mar 2024,False
+TXN-01501,2024-04-01,Dining Out,Dining Out,Chick-fil-A,33.07,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,True
+TXN-01510,2024-04-01,Entertainment,Entertainment,AMC Theatres,31.91,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01496,2024-04-01,Dining Out,Dining Out,Local Bistro,32.23,Expense,Debit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01515,2024-04-04,Subscriptions,Subscriptions,YouTube Premium,12.38,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01518,2024-04-04,Subscriptions,Subscriptions,YouTube Premium,13.61,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,False
+TXN-01509,2024-04-04,Entertainment,Entertainment,Concert Hall,22.52,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01512,2024-04-07,Shopping,Shopping,Best Buy,90.89,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,True
+TXN-01494,2024-04-07,Groceries,Groceries,Aldi,53.73,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01520,2024-04-09,Savings,Savings,Marcus Savings,500.0,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,False
+TXN-01495,2024-04-11,Groceries,Groceries,Kroger,44.82,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01493,2024-04-14,Groceries,Groceries,Aldi,56.27,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01508,2024-04-15,Healthcare,Healthcare,Dentist Office,91.35,Expense,Credit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01498,2024-04-16,Dining Out,Dining Out,Chick-fil-A,56.99,Expense,Credit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01514,2024-04-16,Shopping,Shopping,TJ Maxx,75.83,Expense,Debit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01491,2024-04-17,Groceries,Groceries,Kroger,59.87,Expense,Credit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01015,2024-04-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-04,2024,4,Bi-weekly paycheck,Apr 2024,False
+TXN-01502,2024-04-19,Transportation,Transportation,BP Gas,1.0,Expense,Debit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01503,2024-04-20,Transportation,Transportation,Toll Authority,29.54,Expense,Debit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01489,2024-04-21,Housing,Housing,River Bend Rentals,1400.0,Expense,Credit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01499,2024-04-22,Dining Out,Dining Out,Olive Garden,18.11,Expense,Credit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01506,2024-04-22,Utilities,Utilities,ONG Gas,68.59,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,False
+TXN-01517,2024-04-24,Subscriptions,Subscriptions,YouTube Premium,19.44,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01519,2024-04-24,Subscriptions,Subscriptions,Netflix,18.11,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01507,2024-04-24,Utilities,Utilities,OG&E Electric,79.32,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,False
+TXN-01511,2024-04-24,Entertainment,Entertainment,Bowling Alley,35.93,Expense,Credit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01500,2024-04-24,Dining Out,Dining Out,Chick-fil-A,38.67,Expense,Credit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01504,2024-04-24,Transportation,Transportation,Uber,53.14,Expense,Credit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01516,2024-04-24,Subscriptions,Subscriptions,Spotify,15.85,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01497,2024-04-26,Dining Out,Dining Out,Chipotle,39.84,Expense,Debit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01513,2024-04-27,Shopping,Shopping,TJ Maxx,53.04,Expense,ACH Transfer,2024-04,2024,4,,Apr 2024,True
+TXN-01505,2024-04-28,Transportation,Transportation,Toll Authority,179.24,Expense,Credit Card,2024-04,2024,4,,Apr 2024,True
+TXN-01492,2024-04-29,Groceries,Groceries,Whole Foods,49.63,Expense,Debit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01490,2024-04-29,Groceries,Groceries,Trader Joe's,42.02,Expense,Credit Card,2024-04,2024,4,,Apr 2024,False
+TXN-01524,2024-05-02,Groceries,Groceries,Kroger,53.45,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01526,2024-05-04,Groceries,Groceries,Whole Foods,73.54,Expense,Credit Card,2024-05,2024,5,,May 2024,True
+TXN-01527,2024-05-04,Groceries,Groceries,Aldi,48.43,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01544,2024-05-07,Shopping,Shopping,Target,65.77,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01538,2024-05-07,Utilities,Utilities,City Water Dept,77.32,Expense,Debit Card,2024-05,2024,5,,May 2024,False
+TXN-01548,2024-05-07,Subscriptions,Subscriptions,Microsoft 365,37.82,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01531,2024-05-07,Dining Out,Dining Out,Panda Express,28.1,Expense,Credit Card,2024-05,2024,5,,May 2024,False
+TXN-01535,2024-05-08,Transportation,Transportation,Toll Authority,55.07,Expense,Credit Card,2024-05,2024,5,,May 2024,True
+TXN-01537,2024-05-09,Transportation,Transportation,Lyft,73.24,Expense,Credit Card,2024-05,2024,5,,May 2024,True
+TXN-01542,2024-05-09,Entertainment,Entertainment,Steam Games,31.12,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01533,2024-05-12,Dining Out,Dining Out,Starbucks,24.95,Expense,Debit Card,2024-05,2024,5,,May 2024,False
+TXN-01532,2024-05-12,Dining Out,Dining Out,Starbucks,36.47,Expense,Debit Card,2024-05,2024,5,,May 2024,False
+TXN-01528,2024-05-12,Groceries,Groceries,Trader Joe's,57.1,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01529,2024-05-12,Dining Out,Dining Out,Chipotle,44.55,Expense,Debit Card,2024-05,2024,5,,May 2024,False
+TXN-01530,2024-05-13,Dining Out,Dining Out,Starbucks,43.21,Expense,ACH Transfer,2024-05,2024,5,,May 2024,False
+TXN-01523,2024-05-14,Groceries,Groceries,Aldi,60.86,Expense,Credit Card,2024-05,2024,5,,May 2024,True
+TXN-01550,2024-05-14,Subscriptions,Subscriptions,YouTube Premium,13.87,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01551,2024-05-15,Savings,Savings,Ally Bank Savings,500.0,Expense,Credit Card,2024-05,2024,5,,May 2024,False
+TXN-01536,2024-05-15,Transportation,Transportation,Shell Gas,61.26,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01521,2024-05-18,Housing,Housing,Oakwood Apartments,1400.0,Expense,Credit Card,2024-05,2024,5,,May 2024,False
+TXN-01540,2024-05-20,Entertainment,Entertainment,Concert Hall,46.82,Expense,Cash,2024-05,2024,5,,May 2024,True
+TXN-01016,2024-05-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-05,2024,5,Bi-weekly paycheck,May 2024,False
+TXN-01547,2024-05-22,Subscriptions,Subscriptions,Microsoft 365,25.71,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01525,2024-05-22,Groceries,Groceries,Whole Foods,136.67,Expense,Credit Card,2024-05,2024,5,,May 2024,True
+TXN-01543,2024-05-23,Shopping,Shopping,Nike,60.52,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01534,2024-05-24,Transportation,Transportation,City Parking,55.34,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01546,2024-05-25,Subscriptions,Subscriptions,Netflix,17.49,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01539,2024-05-25,Healthcare,Healthcare,Walgreens,114.43,Expense,Credit Card,2024-05,2024,5,,May 2024,True
+TXN-01522,2024-05-26,Groceries,Groceries,Walmart Grocery,39.21,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01545,2024-05-26,Shopping,Shopping,Nike,82.59,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01541,2024-05-26,Entertainment,Entertainment,AMC Theatres,96.78,Expense,Debit Card,2024-05,2024,5,,May 2024,True
+TXN-01549,2024-05-29,Subscriptions,Subscriptions,YouTube Premium,13.43,Expense,ACH Transfer,2024-05,2024,5,,May 2024,True
+TXN-01558,2024-06-01,Groceries,Groceries,Kroger,79.71,Expense,Credit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01564,2024-06-01,Dining Out,Dining Out,Chick-fil-A,22.35,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01582,2024-06-01,Savings,Savings,Ally Bank Savings,500.0,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01561,2024-06-03,Dining Out,Dining Out,Olive Garden,26.82,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01577,2024-06-03,Subscriptions,Subscriptions,Spotify,16.96,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01573,2024-06-06,Entertainment,Entertainment,Concert Hall,2.42,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01555,2024-06-06,Groceries,Groceries,Walmart Grocery,55.4,Expense,Cash,2024-06,2024,6,,Jun 2024,True
+TXN-01563,2024-06-07,Dining Out,Dining Out,Panda Express,9.01,Expense,Cash,2024-06,2024,6,,Jun 2024,False
+TXN-01560,2024-06-08,Dining Out,Dining Out,Chick-fil-A,73.95,Expense,Debit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01552,2024-06-08,Housing,Housing,River Bend Rentals,1400.0,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01578,2024-06-08,Subscriptions,Subscriptions,YouTube Premium,16.55,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01572,2024-06-09,Entertainment,Entertainment,Concert Hall,34.9,Expense,Debit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01575,2024-06-10,Shopping,Shopping,H&M,48.39,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01567,2024-06-11,Transportation,Transportation,BP Gas,73.22,Expense,ACH Transfer,2024-06,2024,6,,Jun 2024,True
+TXN-01556,2024-06-12,Groceries,Groceries,Kroger,63.58,Expense,Credit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01566,2024-06-13,Transportation,Transportation,Uber,56.69,Expense,Credit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01554,2024-06-14,Groceries,Groceries,Walmart Grocery,53.31,Expense,Cash,2024-06,2024,6,,Jun 2024,True
+TXN-01568,2024-06-16,Transportation,Transportation,Shell Gas,36.89,Expense,Credit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01580,2024-06-17,Subscriptions,Subscriptions,Netflix,13.31,Expense,ACH Transfer,2024-06,2024,6,,Jun 2024,False
+TXN-01579,2024-06-18,Subscriptions,Subscriptions,Netflix,12.21,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01557,2024-06-19,Groceries,Groceries,Aldi,58.48,Expense,Debit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01559,2024-06-19,Groceries,Groceries,Trader Joe's,68.23,Expense,Credit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01553,2024-06-19,Groceries,Groceries,Whole Foods,63.2,Expense,Credit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01562,2024-06-19,Dining Out,Dining Out,Chipotle,46.94,Expense,Debit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01569,2024-06-19,Utilities,Utilities,City Water Dept,75.86,Expense,ACH Transfer,2024-06,2024,6,,Jun 2024,False
+TXN-01017,2024-06-20,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-06,2024,6,Bi-weekly paycheck,Jun 2024,False
+TXN-01574,2024-06-22,Shopping,Shopping,Target,31.28,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01570,2024-06-24,Healthcare,Healthcare,Eye Care Plus,90.97,Expense,Debit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01571,2024-06-24,Entertainment,Entertainment,AMC Theatres,40.13,Expense,Debit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01581,2024-06-24,Subscriptions,Subscriptions,Hulu,16.08,Expense,ACH Transfer,2024-06,2024,6,,Jun 2024,False
+TXN-01565,2024-06-26,Transportation,Transportation,Uber,47.12,Expense,Debit Card,2024-06,2024,6,,Jun 2024,True
+TXN-01576,2024-06-29,Shopping,Shopping,H&M,71.55,Expense,Credit Card,2024-06,2024,6,,Jun 2024,False
+TXN-01610,2024-07-01,Subscriptions,Subscriptions,Netflix,15.45,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01596,2024-07-02,Dining Out,Dining Out,Starbucks,33.92,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01603,2024-07-03,Entertainment,Entertainment,Bowling Alley,29.86,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01595,2024-07-03,Dining Out,Dining Out,Starbucks,30.18,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01613,2024-07-03,Subscriptions,Subscriptions,Adobe CC,16.08,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01586,2024-07-04,Groceries,Groceries,Whole Foods,76.67,Expense,Cash,2024-07,2024,7,,Jul 2024,True
+TXN-01597,2024-07-04,Transportation,Transportation,Lyft,54.47,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01585,2024-07-05,Groceries,Groceries,Trader Joe's,44.31,Expense,Debit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01606,2024-07-07,Shopping,Shopping,TJ Maxx,35.56,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01611,2024-07-08,Subscriptions,Subscriptions,Netflix,14.26,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01614,2024-07-09,Savings,Savings,Marcus Savings,500.0,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01598,2024-07-09,Transportation,Transportation,Shell Gas,71.71,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01583,2024-07-11,Housing,Housing,River Bend Rentals,1400.0,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01594,2024-07-11,Dining Out,Dining Out,Olive Garden,23.78,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01593,2024-07-12,Dining Out,Dining Out,Local Bistro,33.72,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01609,2024-07-12,Shopping,Shopping,H&M,74.12,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01587,2024-07-14,Groceries,Groceries,Whole Foods,68.36,Expense,Debit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01584,2024-07-14,Groceries,Groceries,Whole Foods,72.12,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01599,2024-07-14,Transportation,Transportation,Lyft,47.26,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01591,2024-07-16,Dining Out,Dining Out,Starbucks,25.27,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01588,2024-07-17,Groceries,Groceries,Aldi,63.63,Expense,Debit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01604,2024-07-17,Entertainment,Entertainment,Local Gym,18.95,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01592,2024-07-18,Dining Out,Dining Out,Chick-fil-A,27.57,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01607,2024-07-18,Shopping,Shopping,Amazon,38.39,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01018,2024-07-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-07,2024,7,Bi-weekly paycheck,Jul 2024,False
+TXN-01601,2024-07-19,Utilities,Utilities,AT&T Internet,75.37,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01605,2024-07-22,Entertainment,Entertainment,AMC Theatres,42.55,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01600,2024-07-23,Transportation,Transportation,Shell Gas,26.21,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01589,2024-07-26,Groceries,Groceries,Kroger,58.65,Expense,Credit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01590,2024-07-27,Groceries,Groceries,Kroger,75.8,Expense,Debit Card,2024-07,2024,7,,Jul 2024,True
+TXN-01608,2024-07-29,Shopping,Shopping,Best Buy,102.38,Expense,Cash,2024-07,2024,7,,Jul 2024,True
+TXN-01602,2024-07-30,Healthcare,Healthcare,OU Medical,46.42,Expense,Credit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01612,2024-07-30,Subscriptions,Subscriptions,Spotify,18.93,Expense,Debit Card,2024-07,2024,7,,Jul 2024,False
+TXN-01634,2024-08-01,Entertainment,Entertainment,AMC Theatres,29.12,Expense,Credit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01624,2024-08-01,Dining Out,Dining Out,Starbucks,43.75,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01623,2024-08-01,Dining Out,Dining Out,Panda Express,10.72,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01622,2024-08-05,Groceries,Groceries,Walmart Grocery,80.79,Expense,ACH Transfer,2024-08,2024,8,,Aug 2024,True
+TXN-01637,2024-08-06,Shopping,Shopping,H&M,38.33,Expense,Cash,2024-08,2024,8,,Aug 2024,False
+TXN-01626,2024-08-06,Dining Out,Dining Out,Local Bistro,33.63,Expense,Credit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01636,2024-08-07,Shopping,Shopping,Nike,52.8,Expense,Credit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01629,2024-08-07,Transportation,Transportation,Shell Gas,56.38,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01618,2024-08-08,Groceries,Groceries,Trader Joe's,58.1,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01625,2024-08-08,Dining Out,Dining Out,Panda Express,19.92,Expense,Credit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01631,2024-08-11,Utilities,Utilities,OG&E Electric,66.49,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01628,2024-08-11,Transportation,Transportation,Shell Gas,55.66,Expense,ACH Transfer,2024-08,2024,8,,Aug 2024,False
+TXN-01616,2024-08-12,Groceries,Groceries,Walmart Grocery,79.51,Expense,ACH Transfer,2024-08,2024,8,,Aug 2024,True
+TXN-01619,2024-08-13,Groceries,Groceries,Kroger,46.05,Expense,Credit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01640,2024-08-13,Subscriptions,Subscriptions,Microsoft 365,16.1,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01639,2024-08-13,Subscriptions,Subscriptions,Microsoft 365,11.24,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01635,2024-08-13,Entertainment,Entertainment,Local Gym,45.45,Expense,Credit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01615,2024-08-14,Housing,Housing,Metro Property Mgmt,1400.0,Expense,Credit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01641,2024-08-15,Subscriptions,Subscriptions,Spotify,19.44,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01638,2024-08-19,Subscriptions,Subscriptions,Hulu,11.83,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01621,2024-08-19,Groceries,Groceries,Kroger,45.91,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01633,2024-08-21,Entertainment,Entertainment,Concert Hall,33.35,Expense,Credit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01019,2024-08-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-08,2024,8,Bi-weekly paycheck,Aug 2024,False
+TXN-01642,2024-08-21,Savings,Savings,Marcus Savings,500.0,Expense,Debit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01632,2024-08-23,Healthcare,Healthcare,CVS Pharmacy,89.94,Expense,Credit Card,2024-08,2024,8,,Aug 2024,False
+TXN-01617,2024-08-25,Groceries,Groceries,Walmart Grocery,33.99,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01627,2024-08-25,Dining Out,Dining Out,Olive Garden,92.58,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01620,2024-08-27,Groceries,Groceries,Trader Joe's,71.11,Expense,Debit Card,2024-08,2024,8,,Aug 2024,True
+TXN-01630,2024-08-29,Utilities,Utilities,AT&T Internet,72.7,Expense,ACH Transfer,2024-08,2024,8,,Aug 2024,False
+TXN-01669,2024-09-03,Subscriptions,Subscriptions,Hulu,16.18,Expense,ACH Transfer,2024-09,2024,9,,Sep 2024,False
+TXN-01659,2024-09-06,Utilities,Utilities,ONG Gas,84.33,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01646,2024-09-06,Groceries,Groceries,Whole Foods,56.98,Expense,Debit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01651,2024-09-07,Dining Out,Dining Out,Olive Garden,39.44,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01649,2024-09-07,Groceries,Groceries,Kroger,144.91,Expense,Debit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01645,2024-09-08,Groceries,Groceries,Whole Foods,185.9,Expense,ACH Transfer,2024-09,2024,9,,Sep 2024,True
+TXN-01663,2024-09-09,Entertainment,Entertainment,Steam Games,19.05,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01652,2024-09-11,Dining Out,Dining Out,Olive Garden,30.43,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01648,2024-09-12,Groceries,Groceries,Trader Joe's,17.05,Expense,Credit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01644,2024-09-12,Groceries,Groceries,Trader Joe's,67.96,Expense,Debit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01643,2024-09-13,Housing,Housing,Oakwood Apartments,1400.0,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01647,2024-09-15,Groceries,Groceries,Trader Joe's,48.77,Expense,Credit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01658,2024-09-16,Transportation,Transportation,Lyft,66.43,Expense,Debit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01660,2024-09-17,Healthcare,Healthcare,Walgreens,110.81,Expense,Credit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01020,2024-09-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-09,2024,9,Bi-weekly paycheck,Sep 2024,False
+TXN-01672,2024-09-19,Savings,Savings,Vanguard Transfer,500.0,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01668,2024-09-20,Subscriptions,Subscriptions,Microsoft 365,16.49,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01656,2024-09-20,Transportation,Transportation,Toll Authority,75.13,Expense,Debit Card,2024-09,2024,9,,Sep 2024,True
+TXN-01665,2024-09-22,Shopping,Shopping,H&M,55.27,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01655,2024-09-23,Dining Out,Dining Out,Chipotle,32.98,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01670,2024-09-24,Subscriptions,Subscriptions,Microsoft 365,14.97,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01664,2024-09-24,Entertainment,Entertainment,Bowling Alley,21.03,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01661,2024-09-24,Entertainment,Entertainment,AMC Theatres,38.31,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01654,2024-09-24,Dining Out,Dining Out,Chick-fil-A,23.19,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01653,2024-09-25,Dining Out,Dining Out,Chick-fil-A,27.26,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01667,2024-09-25,Shopping,Shopping,TJ Maxx,26.05,Expense,Credit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01666,2024-09-26,Shopping,Shopping,TJ Maxx,22.82,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01657,2024-09-27,Transportation,Transportation,Lyft,79.0,Expense,ACH Transfer,2024-09,2024,9,,Sep 2024,True
+TXN-01671,2024-09-28,Subscriptions,Subscriptions,Microsoft 365,14.62,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01662,2024-09-28,Entertainment,Entertainment,Bowling Alley,16.24,Expense,Debit Card,2024-09,2024,9,,Sep 2024,False
+TXN-01650,2024-09-29,Groceries,Groceries,Aldi,43.77,Expense,ACH Transfer,2024-09,2024,9,,Sep 2024,True
+TXN-01673,2024-10-01,Housing,Housing,River Bend Rentals,1400.0,Expense,Debit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01690,2024-10-02,Utilities,Utilities,City Water Dept,78.43,Expense,Credit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01686,2024-10-03,Transportation,Transportation,Lyft,60.12,Expense,Credit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01693,2024-10-05,Entertainment,Entertainment,Bowling Alley,25.59,Expense,Credit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01682,2024-10-06,Dining Out,Dining Out,Local Bistro,130.63,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01692,2024-10-09,Entertainment,Entertainment,Local Gym,25.44,Expense,Cash,2024-10,2024,10,,Oct 2024,False
+TXN-01688,2024-10-09,Transportation,Transportation,Uber,45.03,Expense,Credit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01677,2024-10-11,Groceries,Groceries,Whole Foods,64.38,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01695,2024-10-11,Shopping,Shopping,H&M,81.28,Expense,Credit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01698,2024-10-11,Subscriptions,Subscriptions,Adobe CC,16.26,Expense,Debit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01679,2024-10-12,Groceries,Groceries,Whole Foods,55.02,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01684,2024-10-13,Dining Out,Dining Out,Local Bistro,12.14,Expense,Credit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01701,2024-10-15,Savings,Savings,Vanguard Transfer,500.0,Expense,Debit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01674,2024-10-16,Groceries,Groceries,Aldi,134.15,Expense,ACH Transfer,2024-10,2024,10,,Oct 2024,True
+TXN-01691,2024-10-17,Healthcare,Healthcare,OU Medical,49.19,Expense,Debit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01675,2024-10-18,Groceries,Groceries,Trader Joe's,81.53,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01676,2024-10-18,Groceries,Groceries,Trader Joe's,47.62,Expense,ACH Transfer,2024-10,2024,10,,Oct 2024,True
+TXN-01696,2024-10-18,Shopping,Shopping,H&M,97.51,Expense,Credit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01689,2024-10-19,Utilities,Utilities,AT&T Internet,64.79,Expense,ACH Transfer,2024-10,2024,10,,Oct 2024,False
+TXN-01683,2024-10-21,Dining Out,Dining Out,Local Bistro,42.25,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01021,2024-10-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-10,2024,10,Bi-weekly paycheck,Oct 2024,False
+TXN-01687,2024-10-21,Transportation,Transportation,Uber,53.84,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01681,2024-10-22,Dining Out,Dining Out,Chick-fil-A,39.19,Expense,ACH Transfer,2024-10,2024,10,,Oct 2024,True
+TXN-01685,2024-10-23,Transportation,Transportation,City Parking,77.56,Expense,Credit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01694,2024-10-24,Entertainment,Entertainment,Bowling Alley,17.85,Expense,ACH Transfer,2024-10,2024,10,,Oct 2024,False
+TXN-01699,2024-10-26,Subscriptions,Subscriptions,Microsoft 365,10.92,Expense,Cash,2024-10,2024,10,,Oct 2024,False
+TXN-01700,2024-10-27,Subscriptions,Subscriptions,Netflix,14.9,Expense,Debit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01678,2024-10-29,Groceries,Groceries,Trader Joe's,68.28,Expense,Debit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01680,2024-10-30,Dining Out,Dining Out,Chick-fil-A,96.55,Expense,Credit Card,2024-10,2024,10,,Oct 2024,True
+TXN-01697,2024-10-30,Subscriptions,Subscriptions,Spotify,17.07,Expense,Credit Card,2024-10,2024,10,,Oct 2024,False
+TXN-01729,2024-11-02,Subscriptions,Subscriptions,Adobe CC,15.06,Expense,Credit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01702,2024-11-04,Housing,Housing,Metro Property Mgmt,1400.0,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01716,2024-11-06,Transportation,Transportation,Uber,82.05,Expense,Debit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01721,2024-11-07,Entertainment,Entertainment,Concert Hall,23.54,Expense,ACH Transfer,2024-11,2024,11,,Nov 2024,False
+TXN-01731,2024-11-09,Subscriptions,Subscriptions,Hulu,16.45,Expense,Credit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01713,2024-11-09,Dining Out,Dining Out,Chipotle,22.6,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01726,2024-11-10,Shopping,Shopping,Target,73.34,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01728,2024-11-10,Subscriptions,Subscriptions,Spotify,15.66,Expense,ACH Transfer,2024-11,2024,11,,Nov 2024,True
+TXN-01730,2024-11-10,Subscriptions,Subscriptions,Spotify,15.53,Expense,Credit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01724,2024-11-10,Entertainment,Entertainment,Local Gym,29.2,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01705,2024-11-11,Groceries,Groceries,Kroger,58.25,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01732,2024-11-12,Savings,Savings,Vanguard Transfer,500.0,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01710,2024-11-16,Dining Out,Dining Out,Chipotle,40.04,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01712,2024-11-17,Dining Out,Dining Out,Olive Garden,20.0,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01720,2024-11-18,Healthcare,Healthcare,OU Medical,99.56,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01714,2024-11-18,Transportation,Transportation,Shell Gas,64.98,Expense,Debit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01707,2024-11-18,Groceries,Groceries,Trader Joe's,24.34,Expense,ACH Transfer,2024-11,2024,11,,Nov 2024,False
+TXN-01711,2024-11-19,Dining Out,Dining Out,Starbucks,48.39,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01709,2024-11-20,Dining Out,Dining Out,Starbucks,37.81,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01725,2024-11-20,Shopping,Shopping,Target,68.28,Expense,ACH Transfer,2024-11,2024,11,,Nov 2024,False
+TXN-01022,2024-11-21,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-11,2024,11,Bi-weekly paycheck,Nov 2024,False
+TXN-01719,2024-11-22,Utilities,Utilities,OG&E Electric,81.93,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01703,2024-11-23,Groceries,Groceries,Whole Foods,58.93,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01723,2024-11-23,Entertainment,Entertainment,Local Gym,19.82,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01706,2024-11-25,Groceries,Groceries,Walmart Grocery,38.54,Expense,ACH Transfer,2024-11,2024,11,,Nov 2024,False
+TXN-01718,2024-11-25,Utilities,Utilities,ONG Gas,67.23,Expense,Credit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01708,2024-11-26,Groceries,Groceries,Trader Joe's,68.98,Expense,ACH Transfer,2024-11,2024,11,,Nov 2024,False
+TXN-01704,2024-11-26,Groceries,Groceries,Kroger,36.17,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01722,2024-11-27,Entertainment,Entertainment,Local Gym,39.22,Expense,Debit Card,2024-11,2024,11,,Nov 2024,False
+TXN-01717,2024-11-27,Transportation,Transportation,Lyft,31.98,Expense,Credit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01715,2024-11-28,Transportation,Transportation,Uber,40.67,Expense,Credit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01727,2024-11-29,Subscriptions,Subscriptions,Hulu,17.95,Expense,Credit Card,2024-11,2024,11,,Nov 2024,True
+TXN-01757,2024-12-01,Shopping,Shopping,TJ Maxx,49.04,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01762,2024-12-01,Subscriptions,Subscriptions,Microsoft 365,14.21,Expense,ACH Transfer,2024-12,2024,12,,Dec 2024,False
+TXN-01759,2024-12-02,Subscriptions,Subscriptions,Spotify,14.01,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01740,2024-12-03,Dining Out,Dining Out,Panda Express,34.09,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01756,2024-12-03,Shopping,Shopping,Nike,92.16,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01758,2024-12-03,Shopping,Shopping,Best Buy,46.55,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01752,2024-12-03,Entertainment,Entertainment,Local Gym,30.67,Expense,Credit Card,2024-12,2024,12,,Dec 2024,True
+TXN-01737,2024-12-04,Groceries,Groceries,Kroger,50.84,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01738,2024-12-04,Groceries,Groceries,Trader Joe's,65.73,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01751,2024-12-08,Healthcare,Healthcare,CVS Pharmacy,38.93,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01763,2024-12-08,Subscriptions,Subscriptions,Spotify,14.47,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01745,2024-12-08,Transportation,Transportation,Shell Gas,66.65,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01760,2024-12-09,Subscriptions,Subscriptions,Microsoft 365,14.56,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01736,2024-12-09,Groceries,Groceries,Whole Foods,80.69,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01749,2024-12-09,Utilities,Utilities,ONG Gas,81.98,Expense,Credit Card,2024-12,2024,12,,Dec 2024,True
+TXN-01764,2024-12-10,Savings,Savings,Vanguard Transfer,500.0,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01747,2024-12-10,Transportation,Transportation,Toll Authority,43.63,Expense,ACH Transfer,2024-12,2024,12,,Dec 2024,False
+TXN-01744,2024-12-11,Dining Out,Dining Out,Panda Express,50.09,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01743,2024-12-13,Dining Out,Dining Out,Chipotle,36.53,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01754,2024-12-13,Entertainment,Entertainment,AMC Theatres,32.25,Expense,ACH Transfer,2024-12,2024,12,,Dec 2024,True
+TXN-01748,2024-12-17,Transportation,Transportation,City Parking,27.97,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01739,2024-12-17,Groceries,Groceries,Aldi,52.29,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01741,2024-12-18,Dining Out,Dining Out,Local Bistro,21.96,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01023,2024-12-19,Income,Salary,Employer Direct Deposit,4500.0,Income,ACH Transfer,2024-12,2024,12,Bi-weekly paycheck,Dec 2024,False
+TXN-01753,2024-12-21,Entertainment,Entertainment,Bowling Alley,18.93,Expense,Debit Card,2024-12,2024,12,,Dec 2024,True
+TXN-01761,2024-12-22,Subscriptions,Subscriptions,Microsoft 365,14.82,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01734,2024-12-22,Groceries,Groceries,Aldi,40.79,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01733,2024-12-23,Housing,Housing,Metro Property Mgmt,1400.0,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01735,2024-12-25,Groceries,Groceries,Aldi,58.44,Expense,Debit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01742,2024-12-26,Dining Out,Dining Out,Panda Express,35.52,Expense,Credit Card,2024-12,2024,12,,Dec 2024,False
+TXN-01746,2024-12-27,Transportation,Transportation,Toll Authority,35.58,Expense,ACH Transfer,2024-12,2024,12,,Dec 2024,False
+TXN-01750,2024-12-29,Utilities,Utilities,OG&E Electric,69.9,Expense,Credit Card,2024-12,2024,12,,Dec 2024,True
+TXN-01755,2024-12-29,Entertainment,Entertainment,Bowling Alley,39.97,Expense,Credit Card,2024-12,2024,12,,Dec 2024,True
