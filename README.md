@@ -29,9 +29,8 @@ finance transactions across 10 spending categories.
 - CTEs for rolling averages
 
 ## Power BI dashboard
-[View live dashboard →](https://app.powerbi.com/your-link-here)
+[View live dashboard →](https://sooners-my.sharepoint.com/:u:/r/personal/jose_y_aguero-1_ou_edu/Documents/data%20portfolio/Financial%20analyst.pbix?csf=1&web=1&e=bWngkz)
 
-![Dashboard preview](images/powerbi_dashboard.png)
 
 ## How to run the Python script
 ```bash
